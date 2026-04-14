@@ -6,6 +6,8 @@ public class C01Master {
 		
 		//V0.0 Master(조장 : 홍길동)
 		System.out.println("V0.0 Master(조장 : 홍길동)");
+		System.out.println("V0.2 Master(조장 : 홍길동)");
+
 
 		
 	}
