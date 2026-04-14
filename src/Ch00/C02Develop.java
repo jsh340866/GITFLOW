@@ -6,7 +6,8 @@ public class C02Develop {
 		
 		//V0.1 Develop(조장 : 홍길동)
 		System.out.println("V0.1 Develop(조장 : 홍길동)");
-		
+		System.out.println("V0.1 Develop(조장 : 홍길동)");
+
 		
 	}
 
